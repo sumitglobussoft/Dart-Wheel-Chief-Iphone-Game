@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleDisplayName</key>
+	<string>Dart Wheel Chief</string>
+	<key>CFBundleExecutable</key>
+	<string>${EXECUTABLE_NAME}</string>
+	<key>CFBundleIconFile</key>
+	<string></string>
+	<key>CFBundleIconFiles</key>
+	<array>
+		<string>80x80</string>
+		<string>58x58</string>
+		<string>29x29</string>
+		<string>120x120</string>
+		<string>114x114</string>
+		<string>57x57</string>
+		<string>Icon.png</string>
+		<string>Icon@2x.png</string>
+		<string>Icon-72.png</string>
+		<string>Icon-Small-50.png</string>
+		<string>Icon-Small.png</string>
+		<string>Icon-Small@2x.png</string>
+	</array>
+	<key>CFBundleIdentifier</key>
+	<string>com.globussoft.dartwheelchief</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Dart Wheel Chief</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLName</key>
+			<string>718632094859595</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>fb718632094859595</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>1.2</string>
+	<key>FacebookAppID</key>
+	<string>718632094859595</string>
+	<key>FacebookDisplayName</key>
+	<string>Dart Wheel Chief</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>UIAppFonts</key>
+	<array>
+		<string>LittleLordFontleroyNF.ttf</string>
+		<string>ANGEL___.otf</string>
+		<string>NKOTB Fever.ttf</string>
+		<string>NemoNightmares.ttf</string>
+		<string>ShallowGraveBB.ttf</string>
+		<string>BubbleBath.ttf</string>
+		<string>DymoGrungeBubbleExtras.ttf</string>
+		<string>MetalMacabre.ttf</string>
+		<string>TerrorPro.ttf</string>
+		<string>FrankC.ttf</string>
+		<string>FrankHighlight.ttf</string>
+		<string>FabDecoCapsSSK.ttf</string>
+	</array>
+	<key>UIPrerenderedIcon</key>
+	<true/>
+	<key>UIRequiredDeviceCapabilities</key>
+	<dict>
+		<key>accelerometer</key>
+		<true/>
+		<key>opengles-1</key>
+		<true/>
+	</dict>
+	<key>UIStatusBarHidden</key>
+	<true/>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+</dict>
+</plist>
